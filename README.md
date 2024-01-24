@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobolol367
+- 👋 Hi, just hi
 
 <!---
 bobolol367/bobolol367 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
